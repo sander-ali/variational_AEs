@@ -11,4 +11,4 @@ The implementation has been tested on Tensorflow/Keras: 2.6.0
 
 Generated images using the variational Autoencoders
 
-![res_1](https://user-images.githubusercontent.com/26203136/180188169-b087adfa-cb71-48dd-96ca-c223329093e3.png)
+![11](https://user-images.githubusercontent.com/26203136/180189012-d673c8be-77c5-4e89-8128-2f038ce014c7.png)
